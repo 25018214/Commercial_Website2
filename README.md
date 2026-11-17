@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ex02 Commercial Website
 ## Date:
 
@@ -382,3 +383,6 @@ footer{
 
 ## RESULT
 The program for creating commercial website using CSS Flexbox is executed successfully.
+=======
+# Commercial_Website2
+>>>>>>> d5b1e6475ac31d107c2ff1c65d03dcc232d014fd
